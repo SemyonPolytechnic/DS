@@ -1,5 +1,5 @@
 # Projects
-### 1. [Классификация пневмонии по рентгеновскому снимку.](https://github.com/SemyonPolytechnic/DS/blob/main/Classification%20of%20pneumonia/pneumonia.md)
+### 1. [Классификация пневмонии по рентгеновскому снимку.](https://github.com/SemyonPolytechnic/DS/blob/main/Classification%20of%20pneumonia/README.md)
 Было обучено 4 разные архитектуры, после сравнения которых была выбрана архитектура googlenet и дообучена. Удалось добиться на тестовой выборке качества 0.93 по метрике F1-score(recall = 0.974, precision = 0.897)
 
 
