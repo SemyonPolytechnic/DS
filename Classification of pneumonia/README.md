@@ -1,3 +1,4 @@
+# Classification of pneumonia
 ![Результаты](https://github.com/SemyonPolytechnic/DS/blob/main/Classification%20of%20pneumonia/matrix.png)
 
 Проект был выполнен с использованием набора данных Chest X-Ray Images (Pneumonia) (https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/code?datasetId=17810).
